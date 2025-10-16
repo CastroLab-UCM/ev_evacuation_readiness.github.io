@@ -1,0 +1,23 @@
+- name: "Dr. Alice Castro"
+  role: "Principal Investigator"
+  institution: "UC Merced"
+  bio: "Leads the project and coordinates field tests and community engagement."
+  photo: "/assets/images/team/alice.jpg"
+
+- name: "Prof. Ben Davis"
+  role: "EV Systems Lead"
+  institution: "UC Davis"
+  bio: "Focuses on charging infrastructure and simulation of evacuation flows."
+  photo: "/assets/images/team/ben.jpg"
+
+- name: "Dr. Carla Torres"
+  role: "Community Outreach"
+  institution: "UC Santa Cruz"
+  bio: "Works with local governments and community organizations to assess needs."
+  photo: "/assets/images/team/carla.jpg"
+
+- name: "Dr. Daniel Wong"
+  role: "Modeling & Analysis"
+  institution: "UC Berkeley"
+  bio: "Builds evacuation-readiness models and analyzes charging constraints."
+  photo: "/assets/images/team/daniel.jpg"
